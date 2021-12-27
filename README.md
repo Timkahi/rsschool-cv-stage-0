@@ -1,2 +1,2 @@
-**My first CV**
-*Link for CV*(https://Timkahi.github.io/rsschool-cv/cv)
+**CV#2**
+*Link for CV#2*(https://Timkahi.github.io/rsschool-cv/)
