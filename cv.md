@@ -1,7 +1,7 @@
 # My first CV
 
 **my name is Tima Lotah** 
-![This is my avatar](/dsBuffer.bmp(2).png)
+![This is my avatar](./dsBuffer.bmp(2).png)
 *you can contact me by mail: timalotah@gmail.com or diskord nik-name Tima#7858*
 
 -brief information about yourself
