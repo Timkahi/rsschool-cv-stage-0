@@ -1,2 +1,2 @@
-**Markdown & Git**
-https://Timkahi.github.io/rsschool-cv/cv)
+**My first CV**
+*Link for CV*(https://Timkahi.github.io/rsschool-cv/cv)
