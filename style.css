@@ -1,8 +1,8 @@
 body {
     max-width: 900px;
     margin: auto;
-    border: 2px solid rgb(57, 180, 160);
-    background-color: rgb(241, 219, 219);
+    background-image: url(backimg.jpg);
+   
 }
 .contenet-1 {
     display: flex;
@@ -36,9 +36,18 @@ body {
 
 ul.hr li {
     display: inline;
-    background-color: pink;
     width: max-content;
 }
 .name {
     background-color: rgb(236, 255, 128);
+}
+
+.maincontent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.maincontent main {
+    padding: 2%;
+
 }
