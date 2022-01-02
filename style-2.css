@@ -1,0 +1,38 @@
+h2 {
+    font-size: 20px;
+    color: black;
+    background-color: rgb(236, 255, 128);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0%;
+    padding: 10px;
+    
+}
+.dicoretion {
+    background-color: rgb(236, 255, 128);
+    font-size: 20px;
+    color: black;
+}
+.fontsize {
+    color: black;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 20px;
+    padding: 10px;
+}
+ .fontsize-1 {
+     color: white;
+     font-size: 20px;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     background-color: rgb(23, 134, 161);
+     text-decoration: underline;
+ }
+ .fontsize-2 {
+    color: white;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+.MYSTRENGTHS {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
