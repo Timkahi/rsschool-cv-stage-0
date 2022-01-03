@@ -1,14 +1,14 @@
 h2 {
     font-size: 20px;
     color: black;
-    background-color: rgb(236, 255, 128);
+    background: linear-gradient(#ece6d8, #c4c7a1);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0%;
     padding: 10px;
     
 }
 .dicoretion {
-    background-color: rgb(236, 255, 128);
+    background: linear-gradient(#ece6d8, #c4c7a1);
     font-size: 20px;
     color: black;
 }
@@ -21,14 +21,14 @@ h2 {
 }
  .fontsize-1 {
      color: white;
-     font-size: 20px;
+     font-size: 29px;
      font-family:Verdana, Geneva, Tahoma, sans-serif;
      background-color: rgb(23, 134, 161);
      text-decoration: underline;
  }
  .fontsize-2 {
     color: white;
-    font-size: 20px;
+    font-size: 26px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding: 5px;
 }
@@ -36,9 +36,11 @@ h2 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     margin-bottom: 0%;
+    font-size: 25px;
+    padding: 10px;
 }
 .style-code {
-    background-color: rgb(48, 61, 68);
+    background: linear-gradient(#1d1c1c, #444444);
     color: rgb(255, 255, 255);
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -52,4 +54,16 @@ h2 {
 }
 .blue {
     color: cadetblue;
+}
+.style-contalt {
+    font-size: 26px;
+    text-decoration: none;
+    color: white;
+}
+.logo {
+    padding-left: 100px;
+    padding-top: 60px;
+}
+.cvphoto {
+    padding-left: 30px;
 }
