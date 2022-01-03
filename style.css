@@ -7,7 +7,7 @@
 }
 
 body {
-    max-width: 900px;
+    max-width: 1000px;
     margin: auto;
     background-image: url(backimg.jpg);
    
@@ -15,15 +15,14 @@ body {
 .contenet-1 {
     display: flex;
     flex-direction: row-reverse;
-    margin: 0%;
     height: 20%;
     background: linear-gradient(#1a1a1a, #3a3636);
     padding: 10px;
-    
 }
 
 .box-1 {
     order: 1;
+    flex: auto;
 
 }
 
@@ -37,8 +36,9 @@ body {
 ul.hr li {
     display: inline;
     width: max-content;
-    font-size: 25px;
+    font-size: 27px;
     background: linear-gradient(#e721c6, #71279c);
+    flex: auto;
 }
 .name {
    line-height: 1;
@@ -74,8 +74,7 @@ h1 {
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
-    
-
+    height: 60%;
 }
 .infeducetion {
     margin: 0;
@@ -85,8 +84,7 @@ h1 {
 .flex-footer {
     display: flex;
     flex-direction: row;
-   
-
+    height: 20%;
 }
 .footer-contekt {
     background: linear-gradient(#252525, #444242);

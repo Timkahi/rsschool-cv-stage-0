@@ -1,5 +1,5 @@
 h2 {
-    font-size: 20px;
+    font-size: 30px;
     color: black;
     background: linear-gradient(#ece6d8, #c4c7a1);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -38,6 +38,7 @@ h2 {
     margin-bottom: 0%;
     font-size: 25px;
     padding: 10px;
+    text-indent: 80px;
 }
 .style-code {
     background: linear-gradient(#1d1c1c, #444444);
@@ -56,7 +57,7 @@ h2 {
     color: cadetblue;
 }
 .style-contalt {
-    font-size: 26px;
+    font-size: 27px;
     text-decoration: none;
     color: white;
 }
